@@ -1,0 +1,28 @@
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+.blue {
+  color: #5988FF;
+}
+
+.pink {
+  color: #FD98FB;
+}
+
+.green {
+  color: #D6FF6B;
+}
+
+.white {
+  color: #FFFFFF;
+}
+
+button {
+  background-color: #FD98FB;
+  color: #FFFFFF;
+}
+
+body {
+  background-color: #5988FF;
+}
